@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="dexedLibs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Android-side/nima/bin/dexedLibs/android-support-v4-24a0fe8f0b6e17e49bb732d6347fbdc5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Android-side/nima/bin/dexedLibs/android-support-v4-c71991570c9dd893ae00fad70fc5e716.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
